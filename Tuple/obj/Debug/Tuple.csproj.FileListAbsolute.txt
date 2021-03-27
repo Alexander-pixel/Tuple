@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Tuple/Tuple/bin/Debug/Tuple.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Tuple/Tuple/bin/Debug/Tuple.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Tuple/Tuple/obj/Debug/Tuple.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Tuple/Tuple/obj/Debug/Tuple.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Tuple/Tuple/obj/Debug/Tuple.pdb
